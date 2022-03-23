@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "peace lily",
+      "image": "https://www.avasflowers.net/img/prod_img/avasflowers-peace-lily-plant.png",
+      "price": "45.00",
+      "id": 8
     }
   ]
 }
